@@ -1,8 +1,16 @@
 # Startpage
 
-## About this project
+A minimalist and personalized startpage designed for quick access to your favorite corners of the web.
 
-This is a minimalist and personalized startpage designed for quick access to your favorite websites. It is designed to be my browser homepage. It includes quick links to my favorite websites, a search bar, and a minimalist layout.
+<p align="center">
+    ![Preview](./img/screenshot.png)
+</p>
+
+## Features
+
+- **Minimalist Layout**: Zero distractions.
+- **Quick Search**: Search bar focused on efficiency.
+- **Custom Links**: Hardcoded for your most visited sites.
 
 ## Keyboard Shortcuts
 
@@ -13,10 +21,20 @@ The following keyboard shortcuts are available on the search page:
 - **Enter**: Execute the search.
 - **Ctrl + C**: Clear the search input field.
 
+## Setup
+
+1. Clone this repo and customize it.
+2. Open the `index.html` file in your browser.
+3. Set it as your homepage on your browser:
+    - **Firefox**: Settings > Home > Homepage and new windows.
+    - **Chrome/Chromium/Brave**: Settings > Appearance > Show home button.
+
 ## License
 
 This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) file for more details.
 
 ## Credits
 
-This fork is proudly inspired and developed by [Druxorey](https://github.com/druxorey/startpage) and [Fxzii Startpage](https://github.com/Fxzzi/startpage).
+- Inspired by [Fxzii](https://github.com/Fxzzi/startpage).
+- Forked from [Druxorey](https://github.com/druxorey/startpage). 
+- Refactored and personalized by **Badjavii**.
