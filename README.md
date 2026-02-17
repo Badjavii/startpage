@@ -1,10 +1,10 @@
 # Startpage
 
-A minimalist and personalized startpage designed for quick access to your favorite corners of the web.
-
 <p align="center">
-    ![Preview](./img/screenshot.png)
+    ![Preview](./resources/startpage.webp)
 </p>
+
+A minimalist and personalized startpage designed for quick access to your favorite corners of the web.
 
 ## Features
 
