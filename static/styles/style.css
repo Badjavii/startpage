@@ -228,7 +228,7 @@ li:first-child {
 
 .search-container {
 	position: relative;
-	width: 90%;
+	width: 100%;
 	background: var(--drx-color-overlay);
 	border: 2px solid var(--drx-color-overlay);
 	border-radius: 4rem;
