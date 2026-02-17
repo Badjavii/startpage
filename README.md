@@ -1,8 +1,6 @@
 # Startpage
 
-<p align="center">
-    ![Preview](./resources/startpage.webp)
-</p>
+![Preview](./resources/startpage.webp)
 
 A minimalist and personalized startpage designed for quick access to your favorite corners of the web.
 
