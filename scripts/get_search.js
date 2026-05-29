@@ -6,7 +6,7 @@ function clearSearchInput() {
 }
 
 async function loadShortcuts() {
-    const yamlUrl = 'https://raw.githubusercontent.com/druxorey/dotfiles/refs/heads/main/config/brave/bookmarks.yaml';
+    const yamlUrl = 'https://raw.githubusercontent.com/badjavii/badjavii-bookmarks/refs/heads/main/src/bookmarks.yaml';
     try {
         const response = await fetch(yamlUrl);
         const yamlText = await response.text();
